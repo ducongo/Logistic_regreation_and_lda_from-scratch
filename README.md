@@ -1,4 +1,4 @@
-# Logistic_regreation_and_lda_from-scratch
+# Logistic_regression_and_lda_from
 Implemented a logistic regression and linear discriminant analysis from scratch to test on sonar and parkinson data
 
 How to run code (using Colab):
